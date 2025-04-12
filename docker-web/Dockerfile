@@ -4,7 +4,8 @@ FROM nginx:1.23-alpine
 # Create directories for configuration and certificates
 RUN mkdir -p /etc/nginx/ssl && \
     mkdir -p /var/log/nginx && \
-    chown -R nginx:nginx /var/log/nginx
+    chown -R nginx:nginx /var/log/nginx && \
+    chown -R nginx:nginx /var/cache/nginx
 
 # Copy custom Nginx configuration
 COPY ./config/nginx.conf /etc/nginx/nginx.conf

@@ -21,7 +21,7 @@ locals {
       type = "t3.large"
     }
     web = {
-      type = "t3.medium"
+      type = "t3.large"
     }
   }
 }
