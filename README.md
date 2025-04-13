@@ -83,3 +83,7 @@ terragrunt run-all apply --terragrunt-non-interactive --auto-approve
 cd ${HOME_DIR}/terraform/cronos/${AWS_REGION}/dev/ec2-cronos-web
 terragrunt run-all apply --terragrunt-non-interactive --auto-approve
 ```
+
+## Testing logs
+* [cronos-node-log](logs/cronos-node.log)
+* [cronos-web-log](logs/cronos-web.log)
