@@ -104,7 +104,7 @@ inputs = {
   user_data = templatefile(local.user_data_file, merge({
     aws_account_id  = local.aws_account_id
     region          = local.region
-    image_tag       = "v1.0"
+    image_tag       = "v4.0"
   }))
   metadata_http_tokens = "optional"
   ebs_block_devices = {

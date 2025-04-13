@@ -34,9 +34,8 @@ COPY --from=builder /chain-main_3.3.9_Linux_x86_64/bin/chain-maind /usr/local/bi
 
 # Verify binary works
 RUN chain-maind version
-
 # Initialize node
-RUN chain-maind init "cronos-node" --chain-id crypto-org-chain-mainnet-1 --home /root/.chain-maind
+RUN chain-maind init "cronos-node" --chain-id crypto-org-chain-mainnet-1
 
 # Download and verify genesis.json
 RUN curl -s https://raw.githubusercontent.com/crypto-org-chain/mainnet/main/crypto-org-chain-mainnet-1/genesis.json > /root/.chain-maind/config/genesis.json \
@@ -58,4 +57,4 @@ RUN LATEST_HEIGHT=$(curl -s https://rpc.mainnet.cronos-pos.org:443/block | jq -r
     s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"| ; \
     s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" /root/.chain-maind/config/config.toml
 
-ENTRYPOINT ["chain-maind", "start", "--home", "/root/.chain-maind"]
+ENTRYPOINT ["chain-maind"]
