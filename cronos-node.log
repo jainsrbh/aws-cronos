@@ -1,0 +1,500 @@
+6:55AM INF sync any module=statesync msg={}
+6:55AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+6:55AM INF sync any module=statesync msg={}
+6:55AM INF sync any module=statesync msg={}
+6:55AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+6:55AM INF sync any module=statesync msg={}
+6:56AM INF sync any module=statesync msg={}
+6:56AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+6:56AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+6:56AM INF sync any module=statesync msg={}
+6:56AM INF sync any module=statesync msg={}
+6:56AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+6:56AM INF sync any module=statesync msg={}
+6:57AM INF sync any module=statesync msg={}
+6:57AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+6:57AM INF sync any module=statesync msg={}
+6:57AM INF sync any module=statesync msg={}
+6:57AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+6:57AM INF sync any module=statesync msg={}
+6:58AM INF sync any module=statesync msg={}
+6:58AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+6:58AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+6:58AM INF sync any module=statesync msg={}
+6:58AM INF sync any module=statesync msg={}
+6:58AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+6:58AM INF sync any module=statesync msg={}
+6:59AM INF sync any module=statesync msg={}
+6:59AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+6:59AM INF sync any module=statesync msg={}
+6:59AM INF sync any module=statesync msg={}
+6:59AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+6:59AM INF sync any module=statesync msg={}
+7:00AM INF sync any module=statesync msg={}
+7:00AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:00AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:00AM INF sync any module=statesync msg={}
+7:00AM INF sync any module=statesync msg={}
+7:00AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:00AM INF sync any module=statesync msg={}
+7:01AM INF sync any module=statesync msg={}
+7:01AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:01AM INF sync any module=statesync msg={}
+7:01AM INF sync any module=statesync msg={}
+7:01AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:01AM INF sync any module=statesync msg={}
+7:02AM INF sync any module=statesync msg={}
+7:02AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:02AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:02AM INF sync any module=statesync msg={}
+7:02AM INF sync any module=statesync msg={}
+7:02AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:02AM INF sync any module=statesync msg={}
+7:03AM INF sync any module=statesync msg={}
+7:03AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:03AM INF sync any module=statesync msg={}
+7:03AM INF sync any module=statesync msg={}
+7:03AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:03AM INF sync any module=statesync msg={}
+7:04AM INF sync any module=statesync msg={}
+7:04AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:04AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:04AM INF sync any module=statesync msg={}
+7:04AM INF sync any module=statesync msg={}
+7:04AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:04AM INF sync any module=statesync msg={}
+7:05AM INF sync any module=statesync msg={}
+7:05AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:05AM INF sync any module=statesync msg={}
+7:05AM INF sync any module=statesync msg={}
+7:05AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:05AM INF sync any module=statesync msg={}
+7:06AM INF sync any module=statesync msg={}
+7:06AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:06AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:06AM INF sync any module=statesync msg={}
+7:06AM INF sync any module=statesync msg={}
+7:06AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:06AM INF sync any module=statesync msg={}
+7:07AM INF sync any module=statesync msg={}
+7:07AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:07AM INF sync any module=statesync msg={}
+7:07AM INF sync any module=statesync msg={}
+7:07AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:07AM INF sync any module=statesync msg={}
+7:08AM INF sync any module=statesync msg={}
+7:08AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:08AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:08AM INF sync any module=statesync msg={}
+7:08AM INF sync any module=statesync msg={}
+7:08AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:08AM INF sync any module=statesync msg={}
+7:09AM INF sync any module=statesync msg={}
+7:09AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:09AM INF sync any module=statesync msg={}
+7:09AM INF sync any module=statesync msg={}
+7:09AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:09AM INF sync any module=statesync msg={}
+7:10AM INF sync any module=statesync msg={}
+7:10AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:10AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:10AM INF sync any module=statesync msg={}
+7:10AM INF sync any module=statesync msg={}
+7:10AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:10AM INF sync any module=statesync msg={}
+7:11AM INF sync any module=statesync msg={}
+7:11AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:11AM INF sync any module=statesync msg={}
+7:11AM INF sync any module=statesync msg={}
+7:11AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:11AM INF sync any module=statesync msg={}
+7:12AM INF sync any module=statesync msg={}
+7:12AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:12AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:12AM INF sync any module=statesync msg={}
+7:12AM INF sync any module=statesync msg={}
+7:12AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:12AM INF sync any module=statesync msg={}
+7:13AM INF sync any module=statesync msg={}
+7:13AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:13AM INF sync any module=statesync msg={}
+7:13AM INF sync any module=statesync msg={}
+7:13AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:13AM INF sync any module=statesync msg={}
+7:14AM INF sync any module=statesync msg={}
+7:14AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:14AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:14AM INF sync any module=statesync msg={}
+7:14AM INF sync any module=statesync msg={}
+7:14AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:14AM INF sync any module=statesync msg={}
+7:15AM INF sync any module=statesync msg={}
+7:15AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:15AM INF sync any module=statesync msg={}
+7:15AM INF sync any module=statesync msg={}
+7:15AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:15AM INF sync any module=statesync msg={}
+7:16AM INF sync any module=statesync msg={}
+7:16AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:16AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:16AM INF sync any module=statesync msg={}
+7:16AM INF sync any module=statesync msg={}
+7:16AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:16AM INF sync any module=statesync msg={}
+7:17AM INF sync any module=statesync msg={}
+7:17AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:17AM INF sync any module=statesync msg={}
+7:17AM INF sync any module=statesync msg={}
+7:17AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:17AM INF sync any module=statesync msg={}
+7:18AM INF sync any module=statesync msg={}
+7:18AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:18AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:18AM INF sync any module=statesync msg={}
+7:18AM INF sync any module=statesync msg={}
+7:18AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:18AM INF sync any module=statesync msg={}
+7:19AM INF sync any module=statesync msg={}
+7:19AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:19AM INF sync any module=statesync msg={}
+7:19AM INF sync any module=statesync msg={}
+7:19AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:19AM INF sync any module=statesync msg={}
+7:20AM INF sync any module=statesync msg={}
+7:20AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:20AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:20AM INF sync any module=statesync msg={}
+7:20AM INF sync any module=statesync msg={}
+7:20AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:20AM INF sync any module=statesync msg={}
+7:21AM INF sync any module=statesync msg={}
+7:21AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:21AM INF sync any module=statesync msg={}
+7:21AM INF sync any module=statesync msg={}
+7:21AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:21AM INF sync any module=statesync msg={}
+7:22AM INF sync any module=statesync msg={}
+7:22AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:22AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:22AM INF sync any module=statesync msg={}
+7:22AM INF sync any module=statesync msg={}
+7:22AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:22AM INF sync any module=statesync msg={}
+7:23AM INF sync any module=statesync msg={}
+7:23AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:23AM INF sync any module=statesync msg={}
+7:23AM INF sync any module=statesync msg={}
+7:23AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:23AM INF sync any module=statesync msg={}
+7:24AM INF sync any module=statesync msg={}
+7:24AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:24AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:24AM INF sync any module=statesync msg={}
+7:24AM INF sync any module=statesync msg={}
+7:24AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:24AM INF sync any module=statesync msg={}
+7:25AM INF sync any module=statesync msg={}
+7:25AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:25AM INF sync any module=statesync msg={}
+7:25AM INF sync any module=statesync msg={}
+7:25AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:25AM INF sync any module=statesync msg={}
+7:26AM INF sync any module=statesync msg={}
+7:26AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:26AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:26AM INF sync any module=statesync msg={}
+7:26AM INF sync any module=statesync msg={}
+7:26AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:26AM INF sync any module=statesync msg={}
+7:27AM INF sync any module=statesync msg={}
+7:27AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:27AM INF sync any module=statesync msg={}
+7:27AM INF sync any module=statesync msg={}
+7:27AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:27AM INF sync any module=statesync msg={}
+7:28AM INF sync any module=statesync msg={}
+7:28AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:28AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:28AM INF sync any module=statesync msg={}
+7:28AM INF sync any module=statesync msg={}
+7:28AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:28AM INF sync any module=statesync msg={}
+7:29AM INF sync any module=statesync msg={}
+7:29AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:29AM INF sync any module=statesync msg={}
+7:29AM INF sync any module=statesync msg={}
+7:29AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:29AM INF sync any module=statesync msg={}
+7:30AM INF sync any module=statesync msg={}
+7:30AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:30AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:30AM INF sync any module=statesync msg={}
+7:30AM INF sync any module=statesync msg={}
+7:30AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:30AM INF sync any module=statesync msg={}
+7:31AM INF sync any module=statesync msg={}
+7:31AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:31AM INF sync any module=statesync msg={}
+7:31AM INF sync any module=statesync msg={}
+7:31AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:31AM INF sync any module=statesync msg={}
+7:32AM INF sync any module=statesync msg={}
+7:32AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:32AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:32AM INF sync any module=statesync msg={}
+7:32AM INF sync any module=statesync msg={}
+7:32AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:32AM INF sync any module=statesync msg={}
+7:33AM INF sync any module=statesync msg={}
+7:33AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:33AM INF sync any module=statesync msg={}
+7:33AM INF sync any module=statesync msg={}
+7:33AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:33AM INF sync any module=statesync msg={}
+7:34AM INF sync any module=statesync msg={}
+7:34AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:34AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:34AM INF sync any module=statesync msg={}
+7:34AM INF sync any module=statesync msg={}
+7:34AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:34AM INF sync any module=statesync msg={}
+7:35AM INF sync any module=statesync msg={}
+7:35AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:35AM INF sync any module=statesync msg={}
+7:35AM INF sync any module=statesync msg={}
+7:35AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:35AM INF sync any module=statesync msg={}
+7:36AM INF sync any module=statesync msg={}
+7:36AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:36AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:36AM INF sync any module=statesync msg={}
+7:36AM INF sync any module=statesync msg={}
+7:36AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:36AM INF sync any module=statesync msg={}
+7:37AM INF sync any module=statesync msg={}
+7:37AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:37AM INF sync any module=statesync msg={}
+7:37AM INF sync any module=statesync msg={}
+7:37AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:37AM INF sync any module=statesync msg={}
+7:38AM INF sync any module=statesync msg={}
+7:38AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:38AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:38AM INF sync any module=statesync msg={}
+7:38AM INF sync any module=statesync msg={}
+7:38AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:38AM INF sync any module=statesync msg={}
+7:39AM INF sync any module=statesync msg={}
+7:39AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:39AM INF sync any module=statesync msg={}
+7:39AM INF sync any module=statesync msg={}
+7:39AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:39AM INF sync any module=statesync msg={}
+7:40AM INF sync any module=statesync msg={}
+7:40AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:40AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:40AM INF sync any module=statesync msg={}
+7:40AM INF sync any module=statesync msg={}
+7:40AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:40AM INF sync any module=statesync msg={}
+7:41AM INF sync any module=statesync msg={}
+7:41AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:41AM INF sync any module=statesync msg={}
+7:41AM INF sync any module=statesync msg={}
+7:41AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:41AM INF sync any module=statesync msg={}
+7:42AM INF sync any module=statesync msg={}
+7:42AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:42AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:42AM INF sync any module=statesync msg={}
+7:42AM INF sync any module=statesync msg={}
+7:42AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:42AM INF sync any module=statesync msg={}
+7:43AM INF sync any module=statesync msg={}
+7:43AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:43AM INF sync any module=statesync msg={}
+7:43AM INF sync any module=statesync msg={}
+7:43AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:43AM INF sync any module=statesync msg={}
+7:44AM INF sync any module=statesync msg={}
+7:44AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:44AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:44AM INF sync any module=statesync msg={}
+7:44AM INF sync any module=statesync msg={}
+7:44AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:44AM INF sync any module=statesync msg={}
+7:45AM INF sync any module=statesync msg={}
+7:45AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:45AM INF sync any module=statesync msg={}
+7:45AM INF sync any module=statesync msg={}
+7:45AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:45AM INF sync any module=statesync msg={}
+7:46AM INF sync any module=statesync msg={}
+7:46AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:46AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:46AM INF sync any module=statesync msg={}
+7:46AM INF sync any module=statesync msg={}
+7:46AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:46AM INF sync any module=statesync msg={}
+7:47AM INF sync any module=statesync msg={}
+7:47AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:47AM INF sync any module=statesync msg={}
+7:47AM INF sync any module=statesync msg={}
+7:47AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:47AM INF sync any module=statesync msg={}
+7:48AM INF sync any module=statesync msg={}
+7:48AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:48AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:48AM INF sync any module=statesync msg={}
+7:48AM INF sync any module=statesync msg={}
+7:48AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:48AM INF sync any module=statesync msg={}
+7:49AM INF sync any module=statesync msg={}
+7:49AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:49AM INF sync any module=statesync msg={}
+7:49AM INF sync any module=statesync msg={}
+7:49AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:49AM INF Dialing peer address={"id":"2c55809558a4e491e9995962e10c026eb9014655","ip":"34.142.138.34","port":26656} module=p2p
+7:49AM INF sync any module=statesync msg={}
+7:50AM INF sync any module=statesync msg={}
+7:50AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:50AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:50AM INF sync any module=statesync msg={}
+7:50AM INF sync any module=statesync msg={}
+7:50AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:50AM INF sync any module=statesync msg={}
+7:51AM INF sync any module=statesync msg={}
+7:51AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:51AM INF sync any module=statesync msg={}
+7:51AM INF sync any module=statesync msg={}
+7:51AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:51AM INF Dialing peer address={"id":"e1d7ff02b78044795371beb1cd5fb803f9389256","ip":"34.87.151.136","port":26656} module=p2p
+7:51AM INF sync any module=statesync msg={}
+7:52AM INF sync any module=statesync msg={}
+7:52AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:52AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:52AM INF sync any module=statesync msg={}
+7:52AM INF sync any module=statesync msg={}
+7:52AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:52AM INF sync any module=statesync msg={}
+7:53AM INF sync any module=statesync msg={}
+7:53AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:53AM INF sync any module=statesync msg={}
+7:53AM INF sync any module=statesync msg={}
+7:53AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:53AM INF sync any module=statesync msg={}
+7:54AM INF sync any module=statesync msg={}
+7:54AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:54AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:54AM INF sync any module=statesync msg={}
+7:54AM INF sync any module=statesync msg={}
+7:54AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:54AM INF sync any module=statesync msg={}
+7:55AM INF sync any module=statesync msg={}
+7:55AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:55AM INF sync any module=statesync msg={}
+7:55AM INF sync any module=statesync msg={}
+7:55AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:55AM INF sync any module=statesync msg={}
+7:56AM INF sync any module=statesync msg={}
+7:56AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:56AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:56AM INF sync any module=statesync msg={}
+7:56AM INF sync any module=statesync msg={}
+7:56AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:56AM INF sync any module=statesync msg={}
+7:57AM INF sync any module=statesync msg={}
+7:57AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:57AM INF sync any module=statesync msg={}
+7:57AM INF sync any module=statesync msg={}
+7:57AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:57AM INF sync any module=statesync msg={}
+7:58AM INF sync any module=statesync msg={}
+7:58AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+7:58AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:58AM INF sync any module=statesync msg={}
+7:58AM INF sync any module=statesync msg={}
+7:58AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:58AM INF sync any module=statesync msg={}
+7:59AM INF sync any module=statesync msg={}
+7:59AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:59AM INF sync any module=statesync msg={}
+7:59AM INF sync any module=statesync msg={}
+7:59AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+7:59AM INF sync any module=statesync msg={}
+8:00AM INF sync any module=statesync msg={}
+8:00AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+8:00AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:00AM INF sync any module=statesync msg={}
+8:00AM INF sync any module=statesync msg={}
+8:00AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:00AM INF sync any module=statesync msg={}
+8:01AM INF sync any module=statesync msg={}
+8:01AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:01AM INF sync any module=statesync msg={}
+8:01AM INF sync any module=statesync msg={}
+8:01AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:01AM INF sync any module=statesync msg={}
+8:02AM INF sync any module=statesync msg={}
+8:02AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+8:02AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:02AM INF sync any module=statesync msg={}
+8:02AM INF sync any module=statesync msg={}
+8:02AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:02AM INF sync any module=statesync msg={}
+8:03AM INF sync any module=statesync msg={}
+8:03AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:03AM INF sync any module=statesync msg={}
+8:03AM INF sync any module=statesync msg={}
+8:03AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:03AM INF sync any module=statesync msg={}
+8:04AM INF sync any module=statesync msg={}
+8:04AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+8:04AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:04AM INF sync any module=statesync msg={}
+8:04AM INF sync any module=statesync msg={}
+8:04AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:04AM INF sync any module=statesync msg={}
+8:05AM INF sync any module=statesync msg={}
+8:05AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:05AM INF sync any module=statesync msg={}
+8:05AM INF sync any module=statesync msg={}
+8:05AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:05AM INF sync any module=statesync msg={}
+8:06AM INF sync any module=statesync msg={}
+8:06AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+8:06AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:06AM INF sync any module=statesync msg={}
+8:06AM INF sync any module=statesync msg={}
+8:06AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:06AM INF sync any module=statesync msg={}
+8:07AM INF sync any module=statesync msg={}
+8:07AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:07AM INF sync any module=statesync msg={}
+8:07AM INF sync any module=statesync msg={}
+8:07AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:07AM INF sync any module=statesync msg={}
+8:08AM INF sync any module=statesync msg={}
+8:08AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+8:08AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:08AM INF sync any module=statesync msg={}
+8:08AM INF sync any module=statesync msg={}
+8:08AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:08AM INF sync any module=statesync msg={}
+8:09AM INF sync any module=statesync msg={}
+8:09AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:09AM INF sync any module=statesync msg={}
+8:09AM INF sync any module=statesync msg={}
+8:09AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:09AM INF sync any module=statesync msg={}
+8:10AM INF sync any module=statesync msg={}
+8:10AM INF Saving AddrBook to file book=/root/.chain-maind/config/addrbook.json module=p2p size=2
+8:10AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:10AM INF sync any module=statesync msg={}
+8:10AM INF sync any module=statesync msg={}
+8:10AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:10AM INF sync any module=statesync msg={}
+8:11AM INF sync any module=statesync msg={}
+8:11AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
+8:11AM INF sync any module=statesync msg={}
+8:11AM INF sync any module=statesync msg={}

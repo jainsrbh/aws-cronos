@@ -1,0 +1,17 @@
+[root@ip-10-15-23-190 data]# cd /data
+[root@ip-10-15-23-190 data]# tail -10f access.log
+172.17.0.1 - - [13/Apr/2025:07:12:29 +0000] "GET /cosmos HTTP/1.1" 301 169 "-" "curl/8.5.0" "-"
+172.17.0.1 - - [13/Apr/2025:07:12:32 +0000] "GET /cosmos/ HTTP/1.1" 502 157 "-" "curl/8.5.0" "-"
+172.17.0.1 - - [13/Apr/2025:07:13:11 +0000] "GET /tendermint/ HTTP/1.1" 200 3123 "-" "curl/8.5.0" "-"
+172.17.0.1 - - [13/Apr/2025:07:13:16 +0000] "GET /tendermint/tx HTTP/1.1" 500 118 "-" "curl/8.5.0" "-"
+172.17.0.1 - - [13/Apr/2025:07:14:36 +0000] "GET /tendermint/tx HTTP/1.1" 400 255 "-" "curl/8.5.0" "-"
+172.17.0.1 - - [13/Apr/2025:07:14:56 +0000] "GET /tx HTTP/1.1" 400 237 "-" "curl/8.5.0" "-"
+
+
+^C
+[root@ip-10-15-23-190 data]# tail -10f error.log
+2025/04/13 03:12:54 [warn] 1#1: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /etc/nginx/nginx.conf:1
+2025/04/13 07:12:32 [error] 29#29: *2 SSL_do_handshake() failed (SSL: error:0A000410:SSL routines::sslv3 alert handshake failure:SSL alert number 40) while SSL handshaking to upstream, client: 172.17.0.1, server: localhost, request: "GET /cosmos/ HTTP/1.1", upstream: "https://172.64.152.184:443/", host: "localhost:8080"
+2025/04/13 07:12:32 [error] 29#29: *2 SSL_do_handshake() failed (SSL: error:0A000410:SSL routines::sslv3 alert handshake failure:SSL alert number 40) while SSL handshaking to upstream, client: 172.17.0.1, server: localhost, request: "GET /cosmos/ HTTP/1.1", upstream: "https://104.18.35.72:443/", host: "localhost:8080"
+
+
