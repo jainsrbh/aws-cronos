@@ -11,9 +11,11 @@ locals {
   env               = local.environment_vars.locals.environment_tags.environment
   project_name      = local.account_vars.locals.common_tags.project
   region            = local.region_vars.locals.aws_region
+  aws_account_id    = local.account_vars.locals.aws_account_id
   vertical          = local.account_vars.locals.common_tags.vertical
   ec2_configuration = local.environment_vars.locals.ec2.node
   availability_zone = "${local.region}a"
+  user_data_file    = "./userdata.tpl"
 }
 
 terraform {
@@ -99,7 +101,11 @@ inputs = {
   vpc_security_group_ids = [
     dependency.security_groups.outputs.security_groups.node.id
   ]
-  user_data_base64     = base64encode(file("./user_data.sh"))
+  user_data = templatefile(local.user_data_file, merge({
+    aws_account_id  = local.aws_account_id
+    region          = local.region
+    image_tag       = "v1.0"
+  }))
   metadata_http_tokens = "optional"
   ebs_block_devices = {
     "data" = {

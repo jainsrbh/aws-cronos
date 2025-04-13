@@ -81,6 +81,15 @@ dependency "iam" {
   }
 }
 
+dependency "ebs" {
+  config_path  = "../ebs"
+  skip_outputs = lookup(local.environment_vars.locals, "skip_outputs", false)
+  mock_outputs_allowed_terraform_commands = ["validate", "plan", "state", "destroy", "show"]
+  mock_outputs = {
+    ebs_id = "mock-id"
+  }
+}
+
 inputs = {
   name                 = "${local.vertical}-${local.env}-web"
   ami                  = dependency.ami.outputs.ami_id
@@ -95,9 +104,15 @@ inputs = {
   user_data = templatefile(local.user_data_file, merge({
     aws_account_id  = local.aws_account_id
     region          = local.region
-    image_tag       = "latest"
+    image_tag       = "v6.0"
   }))
   metadata_http_tokens = "optional"
+  ebs_block_devices = {
+    "data" = {
+      "device_name" = "/dev/sdh"
+      "ebs_id"      = dependency.ebs.outputs.protected_ebs_id[0]
+    }
+  }
   tags = {
     Environment = "${local.env}"
     Vertical    = "${local.vertical}"
