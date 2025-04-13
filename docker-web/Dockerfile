@@ -22,8 +22,5 @@ RUN chmod 600 /etc/nginx/ssl/*.key && \
 # Expose ports
 EXPOSE 8000 8001
 
-# Run as non-root user
-USER nginx
-
 # Start Nginx
 CMD ["nginx", "-g", "daemon off;"]
